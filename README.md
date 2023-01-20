@@ -6,7 +6,7 @@ ___
 
 ___
 
-___В написании проекта задействованы:___
+___В создании проекта задействованы:___
 
 + Адаптивная вёрстка;
 + Флексбокс-вёрстка;
@@ -27,4 +27,4 @@ ___
 
  Ссылка на сайт:
  
- https://Alena-Nikolaevna.github.io/russian-travel/
+ https://alena-nikolaevna.github.io/russian-travel/
