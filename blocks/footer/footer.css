@@ -4,6 +4,7 @@
   margin: 0 auto;
   padding: 92px 0 24px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   box-sizing: border-box;
   }
