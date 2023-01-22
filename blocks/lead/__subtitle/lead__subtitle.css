@@ -8,10 +8,8 @@
   line-height: 36px;
   font-style: normal;
   text-align: center;
-  letter-spacing: 0em;
 }
-  
-  
+   
 @media screen and (max-width: 1024px) {
   .lead__subtitle {
     margin-bottom: 56px;

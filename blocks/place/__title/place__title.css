@@ -5,7 +5,6 @@
   font-weight: 900;
   line-height: 76px;
   font-style: normal;
-  letter-spacing: 0em;
   color: #ffffff;
   margin: 0;
 }
@@ -24,11 +23,16 @@
   }
 }
   
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
   .place__title {
     width: 288px;
     font-size: 32px;
     line-height: 35px;
-    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__title {
+    padding-left: 16px;
   }
 }
