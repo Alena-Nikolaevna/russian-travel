@@ -1,7 +1,7 @@
 .cover__overlay {
   text-decoration: none;
   width: 100%;
-  min-height: calc(100vw*740/1184);
+  min-height: 740px;
   z-index: 1;
   display: block;
   position: relative;
@@ -27,6 +27,7 @@
   .cover__overlay {
     margin-right: 0;
     margin-left: 0;
+    min-height: calc(100vw*740/1184);
   }
 }
   
